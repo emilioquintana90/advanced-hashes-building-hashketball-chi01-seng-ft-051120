@@ -90,14 +90,14 @@ def game_hash
         :blocks =>1,
         :slam_dunks => 15
       }, {
-        :player_name => "Mason Plumlee",
-        :number => 1,
-        :shoe => 19,
-        :points => 26,
-        :rebounds => 11,
-        :assists => 6,
-        :steals =>3,
-        :blocks =>8,
+        :player_name => "DeSagna Diop",
+        :number => 2,
+        :shoe => 14,
+        :points => 24,
+        :rebounds => 12,
+        :assists => 12,
+        :steals =>4,
+        :blocks =>5,
         :slam_dunks => 5
       }, {
         :player_name => "Jason Terry",
